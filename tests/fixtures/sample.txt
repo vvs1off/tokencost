@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog.
+Token estimation here is heuristic, not exact.

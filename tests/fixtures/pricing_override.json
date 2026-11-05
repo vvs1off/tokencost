@@ -1,0 +1,8 @@
+{
+  "currency": "USD",
+  "per_tokens": 1000000,
+  "models": {
+    "medium": {"input": 2.0, "output": 8.0, "verified": true},
+    "custom": {"input": 1.0, "output": 4.0, "verified": true}
+  }
+}
